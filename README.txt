@@ -1,0 +1,1 @@
+Esta carpeta con estos archivos fueron creados para el curso de microservicios y fue o esta siendo utilizado en el microservicio de config server para la configuracion basada de file system.
